@@ -1,0 +1,14 @@
+com\lxg\spring\security\AuthorizationServerConfiguration.class
+com\lxg\spring\security\MethodSecurityConfig.class
+com\lxg\spring\SpringRestClient.class
+com\lxg\spring\service\UserServiceImpl.class
+com\lxg\spring\security\ResourceServerConfiguration.class
+com\lxg\spring\security\SecurityWebApplicationInitializer.class
+com\lxg\spring\model\AuthTokenInfo.class
+com\lxg\spring\model\User.class
+com\lxg\spring\configuration\CORSFilter.class
+com\lxg\spring\controller\HelloWorldRestController.class
+com\lxg\spring\configuration\SpringConfiguration.class
+com\lxg\spring\service\UserService.class
+com\lxg\spring\configuration\SpringInitializer.class
+com\lxg\spring\security\OAuth2SecurityConfiguration.class
